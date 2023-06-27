@@ -1,5 +1,5 @@
 Resolusi
-- Fokus ke development Android
 - Membuat Portofolio Website
 - Belajar Kotlin sampai mahir
 - Membuat Project Android untuk permulaan
+- Belajar hal lainnya
