@@ -2,4 +2,6 @@ Resolusi
 - Membuat Portofolio Website
 - Belajar Kotlin sampai mahir
 - Membuat Project Android untuk permulaan
+ ^ Kotlin
 - Belajar hal lainnya
+ ^ Data
